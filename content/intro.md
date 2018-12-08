@@ -5,6 +5,21 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic01.jpg" >}}
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
+Hello there! My name's Colette Snyder!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I'm a seasoned project manager who has led the planning, development, and implementation of programs that have involved engaging a very diverse range of stakeholders. I’ve excelled at developing partnerships. I'm comfortable at public speaking, and I’m an excellent writer. I’ve written policy and program guidelines, prepared ministerial briefings, conducted research and environmental scans, designed and implemented program evaluations, managed program and operational budgets, and led teams. 
+
+A few of my key skills:
+
+- Strategic Planning
+- Policy Analysis and Research
+- New Program Development and Launch
+- Stakeholder Engagement
+- Partnership Development
+- Negotiation and Conflict Resolution
+- Written and Verbal Communication
+- Creative Thinking and Problem Solving
+- Project Management
+- Budget Management
+- Grants and Contributions Administration
+- Leadership, Motivation and Team Building
