@@ -3,8 +3,7 @@ title = "Contact"
 weight = 40
 draft = false
 +++
-
-<form method="post" action="#">
+<form action="https://formspree.io/macdonald.riley11@gmail.com" method="POST">
 	<div class="field half first">
 		<label for="name">Name</label>
 		<input type="text" name="name" id="name" />

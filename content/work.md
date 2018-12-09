@@ -4,8 +4,8 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="/images/pic02.jpg" >}}
-<h2>MY 22 YEARS OF EXPERIENCE</h2>
+<!-- {{< figure class="image main" src="/images/pic02.jpg" >}} -->
+<h2>MY 21+ YEARS OF EXPERIENCE</h2>
 <hr />
 <h3> Ontario Ministry of Children, Community and Social Services</h3>
   &nbsp;&nbsp;<b><i>Senior Program Advisor</i></b>
@@ -78,14 +78,3 @@ draft = false
   &nbsp;&nbsp;<b><i> Certificate in Community Engagement, Leadership, and Development</i></b>
   <br/>
   <br/>
-
-
- 
-<!--  
-Ryerson University
-Degree NameCertificate Field Of Study
-Dates attended or expected graduation 2013 – 2016
-
- University of Toronto
-University of Toronto
-Degree Name -->
