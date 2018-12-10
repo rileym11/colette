@@ -13,32 +13,17 @@ disableKinds=["RSS"]
   copyright = "2018"
 
 [[params.social]]
-  # medium = "linkedin"
+  medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/colette-snyder-4425042a/"
-
-# [[params.social]]
-#   icon = "envelope"
-#   link = "#"
-
-# [[params.social]]
-#   medium = "instagram"
-#   icon = "instagram"
-#   link = "#"
-
-# [[params.social]]
-#   medium = "github"
-#   icon = "github"
-#   link = "#"
 
 [languages]
 [languages.en]
 languageName = "English"
 weight = 1
 
-[languages.de]
-languageName = "Deutsch"
+[languages.fr]
+languageName = "Français"
 weight = 2
 title = "Dimension"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /><!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
